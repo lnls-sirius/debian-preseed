@@ -1,0 +1,15 @@
+.molecule
+.vagrant
+.cache
+*.swp
+.DS_Store
+__pycache__
+*.pyc
+*.log
+*.retry
+
+# Python virtualenv
+**/env
+
+# Ansible vault
+*.vault
